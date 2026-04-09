@@ -1,0 +1,14 @@
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\DobroNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\DobroNumero.AssemblyInfoInputs.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\DobroNumero.AssemblyInfo.cs
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\DobroNumero.csproj.CoreCompileInputs.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\bin\Debug\net10.0\DobroNumero.exe
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\bin\Debug\net10.0\DobroNumero.deps.json
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\bin\Debug\net10.0\DobroNumero.runtimeconfig.json
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\bin\Debug\net10.0\DobroNumero.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\bin\Debug\net10.0\DobroNumero.pdb
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\DobroNumero.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\refint\DobroNumero.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\DobroNumero.pdb
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\DobroNumero.genruntimeconfig.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\DobroNumero\obj\Debug\net10.0\ref\DobroNumero.dll

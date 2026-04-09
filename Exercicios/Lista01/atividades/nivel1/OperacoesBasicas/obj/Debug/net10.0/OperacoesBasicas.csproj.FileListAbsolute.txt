@@ -1,0 +1,14 @@
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\OperacoesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\OperacoesBasicas.AssemblyInfoInputs.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\OperacoesBasicas.AssemblyInfo.cs
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\OperacoesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\bin\Debug\net10.0\OperacoesBasicas.exe
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\bin\Debug\net10.0\OperacoesBasicas.deps.json
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\bin\Debug\net10.0\OperacoesBasicas.runtimeconfig.json
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\bin\Debug\net10.0\OperacoesBasicas.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\bin\Debug\net10.0\OperacoesBasicas.pdb
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\OperacoesBasicas.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\refint\OperacoesBasicas.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\OperacoesBasicas.pdb
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\OperacoesBasicas.genruntimeconfig.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\OperacoesBasicas\obj\Debug\net10.0\ref\OperacoesBasicas.dll

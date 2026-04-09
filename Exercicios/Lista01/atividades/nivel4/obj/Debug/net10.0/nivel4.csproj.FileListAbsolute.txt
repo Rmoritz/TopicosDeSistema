@@ -1,0 +1,14 @@
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\bin\Debug\net10.0\nivel4.exe
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\bin\Debug\net10.0\nivel4.deps.json
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\bin\Debug\net10.0\nivel4.runtimeconfig.json
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\bin\Debug\net10.0\nivel4.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\bin\Debug\net10.0\nivel4.pdb
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\nivel4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\nivel4.AssemblyInfoInputs.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\nivel4.AssemblyInfo.cs
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\nivel4.csproj.CoreCompileInputs.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\nivel4.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\refint\nivel4.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\nivel4.pdb
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\nivel4.genruntimeconfig.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel4\obj\Debug\net10.0\ref\nivel4.dll

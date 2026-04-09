@@ -1,0 +1,14 @@
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\Maiordeidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\Maiordeidade.AssemblyInfoInputs.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\Maiordeidade.AssemblyInfo.cs
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\Maiordeidade.csproj.CoreCompileInputs.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\bin\Debug\net10.0\Maiordeidade.exe
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\bin\Debug\net10.0\Maiordeidade.deps.json
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\bin\Debug\net10.0\Maiordeidade.runtimeconfig.json
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\bin\Debug\net10.0\Maiordeidade.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\bin\Debug\net10.0\Maiordeidade.pdb
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\Maiordeidade.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\refint\Maiordeidade.dll
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\Maiordeidade.pdb
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\Maiordeidade.genruntimeconfig.cache
+C:\Users\Elma Chips\Topicosdesistema\atividades\nivel1\Maiordeidade\obj\Debug\net10.0\ref\Maiordeidade.dll
